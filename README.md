@@ -1,2 +1,1 @@
-# Market_calendar
-Generation des jours du marché
+Dans le cadre de l'Enquete Harmonisée sur les Conditions de Vie des Menages (EHCVM) organisée par l'Institut National de la Statisque et de la Démographie (INStaD), ce projet est créé pour aider les agents enqueteur à connaitre simplement les jours des marchés afin de bien plannifier leur passage.
